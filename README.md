@@ -1,6 +1,6 @@
 # Looker Studio Business Dashboard
 
-![Dashboard Preview](Screenshot_1.png)
+![Dashboard Preview](Dashboard.png)
 
 ## Project Overview
 This project is an interactive dashboard created using Google Looker Studio, formerly Google Data Studio. The dashboard is designed to visualize key business metrics, identify trends, and support data-driven decision-making.
